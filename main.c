@@ -2,7 +2,6 @@ int main()
 {
 	int X=10;
 	int Y=20;
-	while(1);
-	
+	int NN=600;
 	return 0;
 }
